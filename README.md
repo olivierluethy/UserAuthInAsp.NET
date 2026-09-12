@@ -88,6 +88,6 @@ https://stackoverflow.com/questions/66865872/ioexception-idx20807-unable-to-retr
 3. Klicken Sie nun mit der rechten Maustaste auf den Ordner oder den Speicherort und dann auf "Git Bash Here".
 4. Schließlich öffnet sich etwas wie die Windows-Eingabeaufforderung. Wenn Sie das tun, müssen Sie nur folgendes eingeben
 ```sh
-git clone http://192.168.100.57:3000/Olivier_Luethy/UserAuthInAsp.NET.git
+git clone https://github.com/olivierluethy/UserAuthInAsp.NET.git
 ```
 5. Wenn Sie das Projekt erfolgreich geklont haben, müssen Sie eine lokale Datenbank haben. Ich habe [XAMPP](https://www.apachefriends.org/de/index.html) verwendet. Wenn du es auch benutzen willst, dann stelle bitte sicher, dass du die neueste Version herunterlädst. Sonst funktioniert es nicht wie erwartet.
